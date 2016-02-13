@@ -1490,7 +1490,7 @@ SKILL_20150317_001489	{#DD5500}{ol}[Físico] [Impacto]{/}{/}{nl}Zumbis andam em 
 SKILL_20150317_001490	Ataque #{SkillAtkAdd}#{nl}Requer zumbis invocados
 SKILL_20150317_001491	Samediveve
 SKILL_20150317_001492	Coloca uma bandeira no chão que aumenta a velocidade de movimento e o HP máximo dos alvos próximos.
-SKILL_20150317_001493	HP Max. +#{CaptionRatio}#{nl}Velocidade de Movimento +#{CaptionRatio2}#% Duração 30 segundos {nl}
+SKILL_20150317_001493	HP Máx. +#{CaptionRatio}#{nl}Velocidade de Movimento +#{CaptionRatio2}#% Duração 30 segundos {nl}
 SKILL_20150317_001494	Ogouveve
 SKILL_20150317_001495	Coloca uma bandeira no chão que aumenta a FOR dos aliados próximos.
 SKILL_20150317_001496	Força + #{CaptionRatio}#{nl}Duração 30 segundos
@@ -1498,13 +1498,13 @@ SKILL_20150317_001497	Damballa
 SKILL_20150317_001498	{#993399}{ol}[Magia]{/}{/}{nl}Explode os zumbis na área alvo causando dano nos inimigos próximos.
 SKILL_20150317_001499	Ataque #{SkillAtkAdd}#{nl}Requer zumbis invocados{nl}Alvo #{SkillSR}#
 SKILL_20150317_001500	Esculpe a estátua da Deusa Vakarine. A estátua pode ser usada para teleportar para outras áreas.
-SKILL_20150317_001501	
+SKILL_20150317_001501	Teletransporta #{CaptionRatio}# vez(es) {nl}Duração da estátua 30 segundos{nl}Usa 3 Madeiras de carvalho
 SKILL_20150317_001502 Estátua da Deusa Zemyna
 SKILL_20150317_001503 Esculpe a estátua da Deusa Zemyna. O consumo de SP dos membros do grupo diminuí quando próximo a estátua.
-SKILL_20150317_001504
+SKILL_20150317_001504 SP - #{CaptionRatio}# {nl} {nl} Duração da estátua 30 segundos{nl}Usa 5 Madeiras de pinho
 SKILL_20150317_001505 Estátua da Deusa Laima
 SKILL_20150317_001506 Esculpe a estátua da Deusa Laima. O Splash dos membros do grupo ao redor da estátua é aumentado.
-SKILL_20150317_001507 Splash +#{CaptionRatio}# {nl}30 segundos de duração da estátua {nl} Usa 5 madeiras de cedro
+SKILL_20150317_001507 Splash +#{CaptionRatio}# {nl}30 segundos de duração da estátua {nl} Usa 5 Madeiras de cedro
 SKILL_20150317_001508 Esculpe
 SKILL_20150317_001509 {#DD5500}{ol}[Físico] - [Perfura]{/}{/}{nl}Ataca o alvo usando o Estilete. Monstros tipo planta recebem bônus de dano adicional e podem soltam materiais da estátua.
 SKILL_20150317_001510 Ataque #{SkillAtkAdd}#{nl}Dano Adicional +#{CaptionRatio}#
@@ -1517,19 +1517,19 @@ SKILL_20150317_001516 Duração #{CaptionRatio} segundos#{nl}Usa #{CaptionRatio2
 SKILL_20150317_001517 Fora do corpo
 SKILL_20150317_001518 Remove o espírito do corpo. O espírito somente pode se mover próximo ao corpo.
 SKILL_20150317_001519 Distância de movimento do corpo 150
-SKILL_20150317_001520 
-SKILL_20150317_001521 
-SKILL_20150317_001522 
+SKILL_20150317_001520 Prakriti
+SKILL_20150317_001521 Move para onde o corpo está localizado.
+SKILL_20150317_001522 Tempo de movimento 0.5 ~ 1 segundo
 SKILL_20150317_001523 Possessão
-SKILL_20150317_001524
-SKILL_20150317_001525
-SKILL_20150317_001526
-SKILL_20150317_001527
-SKILL_20150317_001528
-SKILL_20150317_001529
-SKILL_20150317_001530
-SKILL_20150317_001531
-SKILL_20150317_001532
+SKILL_20150317_001524 {#993399}{ol}[Magia] - [Divino]{/}{/}{nl}Cega o alvo e ataca.
+SKILL_20150317_001525 Ataque #{SkillAtkAdd}#{nl}Máximo. Duração 5 segundos
+SKILL_20150317_001526 Vashita Siddhi
+SKILL_20150317_001527 Reduz FOR, CON, INT, SPR, DES do alvo.
+SKILL_20150317_001528 Explosão do Corpo Astral
+SKILL_20150317_001529 {#993399}{ol}[Magic]{/}{/}{nl}Dispara fluido para danificar alvo.
+SKILL_20150317_001530 Transmit Prana
+SKILL_20150317_001531 Dá INT para o alvo à frente.
+SKILL_20150317_001532 Inteligência passada #{CaptionRatio}#
 SKILL_20150317_001533
 SKILL_20150317_001534
 SKILL_20150317_001535
