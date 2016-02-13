@@ -1512,11 +1512,11 @@ SKILL_20150317_001511 Esculpe a Coruja
 SKILL_20150317_001512 {#993399}{ol}[Magia] - [Fogo]{/}{/}{nl} Invoca a estátua da coruja para atacar alvos localizados à frente.
 SKILL_20150317_001513 Ataque #{SkillAtkAdd}#{nl}Defesa #{CaptionRatio}# vezes{nl}Duração #{CaptionTime}# segundos{nl} Usa 2 carvalhos
 SKILL_20150317_001514 Esculpe a Árvore do Mundo
-SKILL_20150317_001515 
-SKILL_20150317_001516 
+SKILL_20150317_001515 Esculpe a estátua da árvore sagrada para silenciar inimigos próximos.
+SKILL_20150317_001516 Duração #{CaptionRatio} segundos#{nl}Usa #{CaptionRatio2}# madeira(s) de freixo.
 SKILL_20150317_001517 Fora do corpo
-SKILL_20150317_001518 
-SKILL_20150317_001519 
+SKILL_20150317_001518 Remove o espírito do corpo. O espírito somente pode se mover próximo ao corpo.
+SKILL_20150317_001519 Distância de movimento do corpo 150
 SKILL_20150317_001520 
 SKILL_20150317_001521 
 SKILL_20150317_001522 
