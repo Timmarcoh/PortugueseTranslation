@@ -1525,13 +1525,13 @@ SKILL_20150317_001524 {#993399}{ol}[Magia] - [Divino]{/}{/}{nl}Cega o alvo e ata
 SKILL_20150317_001525 Ataque #{SkillAtkAdd}#{nl}Máximo. Duração 5 segundos
 SKILL_20150317_001526 Vashita Siddhi
 SKILL_20150317_001527 Reduz FOR, CON, INT, SPR, DES do alvo.
-SKILL_20150317_001528 Explosão do Corpo Astral
-SKILL_20150317_001529 {#993399}{ol}[Magic]{/}{/}{nl}Dispara fluido para danificar alvo.
-SKILL_20150317_001530 Transmit Prana
-SKILL_20150317_001531 Dá INT para o alvo à frente.
-SKILL_20150317_001532 Inteligência passada #{CaptionRatio}#
-SKILL_20150317_001533
-SKILL_20150317_001534
+SKILL_20150317_001528 FOR, CON, INT, SPR, DES +#{CaptionRatio}#{nl}Max. duração 20 segundos
+SKILL_20150317_001529 Explosão do Corpo Astral
+SKILL_20150317_001530 {#993399}{ol}[Magic]{/}{/}{nl}Dispara fluido para danificar alvo.
+SKILL_20150317_001531 Transmit Prana
+SKILL_20150317_001532 Dá INT para o alvo à frente.
+SKILL_20150317_001533 Inteligência passada #{CaptionRatio}#
+SKILL_20150317_001534 Golpear
 SKILL_20150317_001535
 SKILL_20150317_001536
 SKILL_20150317_001537
